@@ -1,0 +1,16 @@
+1
+Zagreb
+1
+GRAD
+2
+Kastel
+2
+SELO
+3
+Laduc
+3
+Ostalo
+4
+Mesto
+1
+SELO

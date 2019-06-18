@@ -1,0 +1,15 @@
+1
+Zagrebacka zupanija
+1
+2
+Splitska-Dalmatinska
+1
+3
+Mariborska
+2
+4
+Ljubljansko-Posavska zupanija
+2
+5
+Bjelovarsko-Bilogorska
+1

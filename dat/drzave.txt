@@ -1,0 +1,40 @@
+1
+Hrvatska
+56594
+Europa
+2
+Slovenija
+20273
+Europa
+3
+Bugarska
+890348
+Europa
+4
+Arabija
+243332
+Azija
+5
+SAD
+223423.34
+Sj. Amerika
+6
+Engleska
+345345.34
+Europa
+7
+Danska
+43434.4
+Europa
+8
+Sudan
+5555.45
+Afrika
+9
+Argentina
+43434
+J. Amerika
+10
+Kanada
+999934.34
+Sj. Amerika
